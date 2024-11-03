@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Camiseta Básica",
+        "description": "Camiseta de algodón, cómoda y ligera.",
+        "price": "15.99"
+    },
+    {
+        "id": "2",
+        "name": "Zapatillas Deportivas",
+        "description": "Zapatillas cómodas para correr y hacer ejercicio.",
+        "price": "49.99"
+    },
+    {
+        "id": "3",
+        "name": "Reloj Digital",
+        "description": "Reloj con múltiples funciones y diseño moderno.",
+        "price": "29.99"
+    },
+    {
+        "id": "4",
+        "name": "Mochila Escolar",
+        "description": "Mochila espaciosa, ideal para estudiantes y viajes.",
+        "price": "30.99"
+    },
+    {
+        "id": "5",
+        "name": "Gafas de Sol",
+        "description": "Gafas UV400, perfectas para días soleados.",
+        "price": "24.99"
+    },
+    {
+        "id": "6",
+        "name": "Auriculares Inalámbricos",
+        "description": "Auriculares con cancelación de ruido y buena calidad.",
+        "price": "59.99"
+    },
+    {
+        "id": "7",
+        "name": "Libro de Cocina",
+        "description": "Recetas fáciles y deliciosas para todos los gustos.",
+        "price": "19.99"
+    },
+    {
+        "id": "8",
+        "name": "Silla Ergonómica",
+        "description": "Silla cómoda y ajustable para largas horas.",
+        "price": "89.99"
+    },
+    {
+        "id": "9",
+        "name": "Smartphone 5G",
+        "description": "Teléfono inteligente con cámara de alta resolución.",
+        "price": "599.99"
+    },
+    {
+        "id": "10",
+        "name": "Cafetera Espresso",
+        "description": "Cafetera para preparar café espresso en casa.",
+        "price": "79.99"
+    }
+]
